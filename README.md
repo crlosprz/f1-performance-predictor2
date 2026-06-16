@@ -5,9 +5,9 @@
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-orange.svg)](https://scikit-learn.org/)
 
-👉 **Repositorio GitHub:** https://github.com/crlosprz/f1-position-predictor
+👉 **Repositorio GitHub:** https://github.com/crlosprz/f1-performance-predictor2
 
-👉 **Aplicación desplegada:** https://f1-position-predictor-kbdnmvwuiagd8kvuwnefkm.streamlit.app/
+👉 **Aplicación desplegada:** https://f1-performance-predictor2-dgef2kagunv8fms68nymqc.streamlit.app/
 
 Aplicación interactiva desarrollada con Streamlit para analizar y predecir el rendimiento de pilotos de Fórmula 1 utilizando datos históricos reales de las temporadas 2021-2024.
 
